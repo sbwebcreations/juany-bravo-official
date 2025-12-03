@@ -22,5 +22,8 @@ export default function Home() {
         <p>&copy; {new Date().getFullYear()} Juany Bravo. All Rights Reserved.</p>
       </footer>
     </main>
+export default function Home() {
+  return (
+    <div>Portfolio Initialized</div>
   );
 }
