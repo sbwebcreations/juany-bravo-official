@@ -1,4 +1,4 @@
-'use client';
+"use client";
 
 import React from 'react';
 import Navbar from '@/components/Navbar';
@@ -14,7 +14,7 @@ export default function Home() {
   return (
     <main className="min-h-screen bg-black text-white selection:bg-white selection:text-black">
       <Navbar />
-
+      
       <div id="home">
         <Hero />
       </div>
