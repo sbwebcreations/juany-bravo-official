@@ -49,6 +49,3 @@ export const BLOG_POSTS = [
   { id: 2, title: 'Summer Tour Recap', date: '2025-09-10', excerpt: 'Highlights from the European leg of the tour, featuring sold-out shows in Ibiza and Mykonos.' },
   { id: 3, title: 'Production Tips: Minimal Textures', date: '2025-08-05', excerpt: 'How to create space in your mix while keeping the energy high.' },
 ];
-export const SOCIAL_LINKS = [ { platform: 'Instagram', url: 'https://www.instagram.com/juanybravo/' }, { platform: 'Spotify', url: '#' }, { platform: 'Soundcloud', url: '#' }, ];
-
-export const TOUR_DATES = [ { date: '2025.12.06', venue: 'Afrodise at Yona Beach Club', location: 'Phuket, TH', soldOut: false }, { date: '2025.12.19', venue: 'Baccarat', location: 'Bangkok, TH', soldOut: false }, { date: '2025.12.20', venue: 'Afrodise at Seen Samui', location: 'Koh Samui, TH', soldOut: false }, { date: '2025.12.26', venue: 'Gaia', location: 'Antalya, TR', soldOut: false }, { date: '2025.12.27', venue: '7 Seas', location: 'Limassol, CY', soldOut: false }, { date: '2025.12.30', venue: 'Echo', location: 'Goa, IN', soldOut: false }, { date: '2025.12.31', venue: 'Endless Summer Beach Club', location: 'Phuket, TH', soldOut: true }, { date: '2026.01.07', venue: 'MTGD at Papaya Playa', location: 'Tulum, MX', soldOut: false }, ];
